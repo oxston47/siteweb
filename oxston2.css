@@ -1,0 +1,90 @@
+ /* Reset some default browser styles */
+body, h1, h2, p, ul, li, header, nav, main, section, footer {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  ul, p, h2 {
+    color: #070101d3;
+    font-size: 25px;
+  }
+  h1 {
+    color: #3a62f4;
+    font-size: 40px;
+  }
+ 
+  form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  body {
+     background-image: url(coaching-sportif-en-ligne-conseils-booster-performances-sportives.jpg);
+     background-size: cover;
+  }
+  
+  
+  header {
+    background-color: #050711;
+    color: #4f74db;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  nav li a:hover {
+    border-bottom: 2px solid #fff;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    color: #333;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+  }
+  img {
+    border-radius: 50%;
+  }
+  
+  img {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #252d5d;
+  }
+
+
+
+  
+  footer {
+    background-color: #3a62f4;
+    color: #3f65bd;
+    padding: 10px;
+    text-align: center;
+  }
