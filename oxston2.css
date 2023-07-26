@@ -6,7 +6,7 @@ body, h1, h2, p, ul, li, header, nav, main, section, footer {
   }
   
   ul, p, h2 {
-    color: #070101d3;
+    color: #faf7f7bd;
     font-size: 25px;
   }
   h1 {
@@ -14,13 +14,6 @@ body, h1, h2, p, ul, li, header, nav, main, section, footer {
     font-size: 40px;
   }
  
-  form{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
-
   body {
      background-image: url(coaching-sportif-en-ligne-conseils-booster-performances-sportives.jpg);
      background-size: cover;
