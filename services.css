@@ -1,0 +1,30 @@
+header ul nav body                                     {
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+ 
+header {
+    background: transparent;
+    padding: 20px;
+    text-align: center;
+  }
+
+
+body{
+background-image: url(salle\ sport);
+background-size: cover;
+height: 100vh;
+ 
+}
+
+h1 {
+color: rgb(0, 0, 9);
+font-size: 40px;
+}
+
+li {
+color: brown;
+font-size: 18px;
+
+}
